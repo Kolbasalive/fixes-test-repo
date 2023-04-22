@@ -8,6 +8,8 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+
+secret.txt
 # AWS User-specific
 .idea/**/aws.xml
 
